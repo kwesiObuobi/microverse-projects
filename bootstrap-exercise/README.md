@@ -4,26 +4,22 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-  - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Run tests](#run-tests)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [� Table of Contents](#-table-of-contents)
+- [📖 Bootstrap-Exercise ](#-bootstrap-exercise-)
+  - [🛠 Built With ](#-built-with-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+  - [Author](#author)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 # 📖 Bootstrap-Exercise <a name="about-project"></a>
 
-**Bootstrap-Exercise** is a a simple project that shows the web page of a
- developer depicting both soft and technical skills.
+**Bootstrap-Exercise** is a portfolio exercise project build with Bootstrap
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,11 +35,6 @@
 - **A figma template is parsed to create the design of the web page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](http://127.0.0.1:5501/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +68,7 @@ Clone this repository to your desired folder:
 
 👤 **Samuel Kwesi Obuobi**
 
-- GitHub: [@kwesiObuobi]https://github.com/kwesiObuobi)
+- GitHub: [@kwesiObuobi](https://github.com/kwesiObuobi)
 - Twitter: [@kwesiObuobi](https://twitter.com/kwesi_obuobi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kwesi-obuobi/)
 
@@ -100,9 +91,7 @@ If you like this project give a ⭐️
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank
-
-- Samuel Kwesi Obuobi
-- Microverse Team
+- The Microverse Team
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
