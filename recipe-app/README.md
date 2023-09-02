@@ -59,6 +59,8 @@ Example command:
 
 ### Setup
 
+> *This was a pair-programming project originally built in [this](https://github.com/yegonkimutai/Recipe-app) repositoty.*
+
 Clone this repository to your desired folder:
 
 Example commands:
