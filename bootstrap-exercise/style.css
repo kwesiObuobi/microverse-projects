@@ -1,0 +1,222 @@
+body {
+    overflow-x: hidden;
+}
+
+.headline {
+    padding-top: 70px;
+    background-image: url(images/header-illsutration-mobile.png);
+    background-size: cover;
+}
+
+.headline-name {
+    font-size: 40px;
+}
+
+.software-dev {
+    color: #36b37e;
+}
+
+.supporting-text {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.badge {
+    background-color: #ebf0ee;
+}
+
+/*
+RECENT WORKS
+*/
+
+.recent-works-h3 {
+    font-size: 40px;
+}
+
+/*
+ABOUT ME
+*/
+
+#about-me {
+    margin-top: 68px;
+}
+
+.about-me-inner {
+    position: relative;
+}
+
+.about-me-h2 {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+/* .about-img, */
+.about-me-left {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 0;
+    left: -12px;
+}
+
+.about-me-right {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: -20px;
+    right: -40px;
+}
+
+.about-me-card {
+    height: 300px;
+}
+
+/*
+CONTACT SECTION
+*/
+
+.contact {
+    position: relative;
+    margin-top: 60px;
+}
+
+.contact-mobile {
+    position: absolute;
+    bottom: -40px;
+    right: -20px;
+}
+
+.contact-p {
+    font-size: 40px;
+    line-height: 52px;
+    font-weight: 700;
+}
+
+/*
+MEDIA QUERIES
+MEDIA QUERIES
+MEDIA QUERIES
+*/
+.text2 {
+    max-width: 450px;
+    font-size: 32px;
+}
+
+.custom-dialog-width {
+    min-width: 90%;
+}
+
+
+@media (min-width: 567px) {
+    .headline {
+        margin-top: 0;
+    }
+
+    .social {
+        margin-bottom: 100px;
+    }
+}
+
+@media (min-width: 992px) {
+    .max-width {
+        max-width: 580px;
+    }
+
+    .header-headline-container {
+        background-image: url(images/header-desktop.png);
+        background-size: cover;
+        background-position: top;
+        height: 100vh;
+    }
+
+    .headline {
+        margin-top: 80px;
+        background-image: none;
+    }
+
+    .img-container, .about-me-card {
+        height: 300px;
+    }
+
+    .portfolio {
+        margin-top: 50px;
+    }
+
+    #about-me {
+        margin-top: 150px;
+    }
+
+    .about-me-inner {
+        position: relative;
+    }
+    
+    .about-img {
+        position: absolute;
+        left: -70px;
+        width: 200;
+        height: 200px;
+    }
+
+    .about-me-right {
+        position: absolute;
+        right: -135px;
+        top: -120px;
+        width: 200;
+        height: 200px;
+    }
+
+    .about-me-p {
+        max-width: 700px;
+        font-size: 20px;
+    }
+
+    #contact {
+        position: relative;
+    }
+
+    #contact p {
+        max-width: 380px;
+    }
+
+    .contact {
+        margin-top: 120px;
+    }
+
+    .contact-p {
+        font-size: 30px;
+    }
+
+    .line {
+        margin-top: 200px;
+        margin-left: -120px;
+        margin-right: -120px;
+    }
+
+    .contact-left,
+    .contact-center,
+    .contact-right {
+        position: absolute;
+    }
+
+    .contact-left {
+        left: -120px;
+        top: 90px;
+    }
+
+    .contact-right {
+        right: -120px;
+        top: -65px;
+    }
+
+    .contact-center {
+        height: 100px;
+        width: 100px;
+        left: 150px;
+        bottom: -140px;
+    }
+
+    .custom-dialog-width {
+        min-width: 800px;
+    }
+    
+}
