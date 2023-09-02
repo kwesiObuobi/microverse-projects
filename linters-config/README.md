@@ -1,5 +1,9 @@
 # Linters Config
 
+> *This repo was originally forked from [microverseinc/linters-config](https://github.com/microverseinc/linters-config)*
+> 
+> [09-2023]
+
 ## How to use this repo? 🤔
 
 Each directory listed below contains config files specific to one programming language and README file with detailed instructions:
