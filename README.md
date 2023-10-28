@@ -5,7 +5,7 @@ This Repository contains all the projects and exercises I did as a student at [M
 
 ## Download a single project
 
-To download a single project(folder) onto your PC and run it locally, follow the steps below:
+To download a single project(folder) onto your PC, follow the steps below:
 - Select/open the project(folder)
 - Copy the URL from the address bar
 - Navigate to [https://download-directory.github.io/](https://download-directory.github.io/)
